@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lonwabo — Data Solution Architect (Financial Services)
+# 👋 Hi, I’m Lonwabo Eric Silinda, CDMP® — Data Solution Architect (Financial Services)
 
 I’m a Strategic Data Solution Architect with focused on architecting **enterprise data platforms** and **trusted, audit-ready reporting** for Wealth / Advice businesses.
 
