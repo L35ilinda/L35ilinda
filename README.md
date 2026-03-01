@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I’m Lonwabo Silinda — Data Solution Architect (Financial Services)
 
 I’m a Strategic Data Solution Architect with focused on architecting **enterprise data platforms** and **trusted, audit-ready reporting** for Wealth / Advice businesses.
