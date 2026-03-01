@@ -10,7 +10,7 @@ I’m a strategic data professional with **8+ years in BI / Data Engineering** a
 
 ---
 
-## 🧩 What I do (architecture + delivery)
+## 🧩 What I do (Data Strategy + Architecture + Delivery)
 
 - **Solution architecture** for BI / Analytics platforms (roadmaps, patterns, reference designs)
 - **Data warehousing** (EDW design, dimensional modelling, conformed dimensions, performance-aware patterns)
